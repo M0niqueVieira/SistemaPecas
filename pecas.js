@@ -1,8 +1,8 @@
 /*Resolução do exercício do encontro remoto
-Variaveis - Espaço na memória para guardar algum valor
-pesoPeca - Camel Case
-peso_peca - Sanke Case
-PesoPeca - Pascal Case
+Verificando os seguintes requisitos:
+1. Se a peça possui mais de 100g (Pode cadastrar)
+2. Se o número de peças em uma caixa é menor que 10 (Pode cadastrar)
+3. Se o nome da peça possui mais de três caracteres (Pode cadastrar)
 */
 let pesoPeca = 50
 
