@@ -1,12 +1,10 @@
 /*Resolução do exercício do encontro remoto
- Variaveis - Espaço na memória para guardar algum valor
+Variaveis - Espaço na memória para guardar algum valor
 pesoPeca - Camel Case
 peso_peca - Sanke Case
 PesoPeca - Pascal Case
 */
 let pesoPeca = 50
-//let numerodPeca = 8
-//let nomePeca = "Disco de Freio"
 
 if(pesoPeca > 100){
     console.log("Peso da peça maior que 100g. Pode cadastrar!")
